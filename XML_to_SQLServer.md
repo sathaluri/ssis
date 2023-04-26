@@ -6,7 +6,7 @@
 
    * In the `New Project` dialog, select the `Integration Services` project template. Click on `Next`. 
 
-     ![](C:\Training\create_integration_project.png)
+     ![](images/create_integration_project.png "Create New Project")
 
    * In the `Configure your new project` dialog, enter the following information:
 
@@ -19,19 +19,19 @@
 
    * Click on `Create`.
 
-     ![](C:\Training\project_creation.png)
+     ![](images/project_creation.png)
 
 2. **Add a new data flow task.**
 
    *  To add a new data flow task, , drag and drop the `Data Flow Task` from the `Toolbox` to the `Package` design surface.
 
-     ![](C:\Training\data_flow_task.png)
+     ![](images/data_flow_task.png)
 
 3. **Add an XML source.**
 
    *  To add an XML source, drag and drop the `XML Source` task from the `Toolbox` to the `Data Flow` design surface.
 
-     ![](C:\Training\xml_source.png)
+     ![](images/xml_source.png)
 
 4. **Configure the XML source.**
 
@@ -44,15 +44,15 @@
      
      ```
 
-​									![](C:\Training\xml_source_configuration.png)
+​		      							![](images/xml_source_configuration.png)
 
-​									![](C:\Training\xml_source_configuration_final.png)
+​									      ![](images/xml_source_configuration_final.png)
 
 5. **Add an OLE DB destination.**
 
    * To add an OLE DB destination, drag and drop the `OLE DB Destination` task from the `Toolbox` to the `Data Flow` design surface.
 
-     ![](C:\Training\oledb_destination.png)
+     ![](images/oledb_destination.png)
 
 6. **Configure the OLE DB destination.**
 
